@@ -1,0 +1,4 @@
+- 프로젝트명: Codex 개발환경 테스트
+- 개발환경: Windows 11, VS Code, Git, Codex
+- GitHub 저장소: skmin77/dev_study
+- 테스트 목적: Codex가 로컬 파일을 정상적으로 생성하고 수정할 수 있는지 확인
